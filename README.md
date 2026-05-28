@@ -1,4 +1,4 @@
-# Cognifyz Data Science Internship
+# Data Science Internship
 
 ## About
 This repository contains all tasks completed during my 1-month 
